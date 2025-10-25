@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cheah-WH
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate with software company
-- 📫 My personal email : Cheah9098@gmail.com
+- 👀 I’m a fullstack software engineer
+- 🌱 I’m currently working on mobile app development
+- 💞️ I’m open for freelance project 
+- 📫 My personal email : weiheng.do2@gmail.com
 
 <!---
 Cheah-WH/Cheah-WH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
